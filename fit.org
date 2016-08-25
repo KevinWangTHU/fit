@@ -1,13 +1,13 @@
 * FIT
 #+BEGIN: clocktable :maxlevel 2 :scope subtree
-#+CAPTION: Clock summary at [2016-08-24 Wed 18:41]
+#+CAPTION: Clock summary at [2016-08-25 Thu 22:58]
 | Headline      | Time    |       |
 |---------------+---------+-------|
-| *Total time*  | *22:00* |       |
+| *Total time*  | *22:30* |       |
 |---------------+---------+-------|
-| FIT           | 22:00   |       |
+| FIT           | 22:30   |       |
 | \emsp GYM     |         | 21:10 |
-| \emsp RUNNING |         |  0:50 |
+| \emsp RUNNING |         |  1:20 |
 #+END:
 
 ** GYM
@@ -293,3 +293,8 @@
     CLOCK: [2016-07-23 Sat 18:00]--[2016-07-23 Sat 18:30] =>  0:30
     :END:
 跑步半小时 5km 配速11左右。
+*** <2016-08-25 Thu>
+    :LOGBOOK:
+    CLOCK: [2016-08-25 Thu 22:00]--[2016-08-25 Thu 22:30] =>  0:30
+    :END:
+半小时 5km
