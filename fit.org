@@ -1,12 +1,12 @@
 * FIT
 #+BEGIN: clocktable :maxlevel 2 :scope subtree
-#+CAPTION: Clock summary at [2016-10-22 Sat 00:07]
+#+CAPTION: Clock summary at [2016-10-23 Sun 23:56]
 | Headline      | Time  |       |
 |---------------+-------+-------|
-| *Total time*    | *34:45* |       |
+| *Total time*    | *35:10* |       |
 |---------------+-------+-------|
-| FIT           | 34:45 |       |
-| \emsp GYM     |       | 31:50 |
+| FIT           | 35:10 |       |
+| \emsp GYM     |       | 32:15 |
 | \emsp RUNNING |       |  2:55 |
 #+END:
 
@@ -443,6 +443,14 @@
  + 引体 40
  + 卷腹 25*2 抬腿20*2
 
+*** <2016-10-23 Sun>
+    :LOGBOOK:
+    CLOCK: [2016-10-11 Tue 22:45]--[2016-10-11 Tue 23:10] =>  0:25
+    :END:
+胸背
+ + 上斜卧推 12*4
+ + 龙门架夹胸 12*4
+ + 引体向上 40
 
 ** RUNNING
 *** <2016-07-22 Fri>
