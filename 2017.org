@@ -1,0 +1,14 @@
+* FIT 2017
+#+BEGIN: clocktable :maxlevel 2 :scope subtree
+
+#+END:
+
+** Aerobic
+*** <2017-01-16 Mon>
+    :LOGBOOK:
+    CLOCK: [2017-01-16 Mon 21:05]--[2017-01-16 Mon 21:30] =>  0:25
+    :END:
+新年第一练！恢复正常锻炼作息。
+ + 跑步 12min
+ + 仰卧起坐 25 * 4
+ + 引体向上 5
