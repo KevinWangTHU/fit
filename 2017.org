@@ -1,6 +1,12 @@
 * FIT 2017
 #+BEGIN: clocktable :maxlevel 2 :scope subtree
-
+#+CAPTION: Clock summary at [2017-01-18 Wed 23:08]
+| Headline      | Time |      |
+|---------------+------+------|
+| *Total time*    | *0:50* |      |
+|---------------+------+------|
+| FIT 2017      | 0:50 |      |
+| \emsp Aerobic |      | 0:50 |
 #+END:
 
 ** Aerobic
