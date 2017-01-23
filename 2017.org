@@ -1,6 +1,6 @@
 * FIT 2017
 #+BEGIN: clocktable :maxlevel 2 :scope subtree
-#+CAPTION: Clock summary at [2017-01-18 Wed 23:08]
+#+CAPTION: Clock summary at [2017-01-23 Mon 10:28]
 | Headline      | Time |      |
 |---------------+------+------|
 | *Total time*    | *0:50* |      |
@@ -18,3 +18,11 @@
  + 跑步 12min
  + 仰卧起坐 25 * 4
  + 引体向上 5
+
+*** <2017-01-18 Wed>
+    :LOGBOOK:
+    CLOCK: [2017-01-18 Wed 21:05]--[2017-01-18 Wed 21:30] =>  0:25
+    :END:
+ + 跑步 12min
+ + 仰卧起坐 25 * 4
+ + 引体向上 6
